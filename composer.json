@@ -1,0 +1,11 @@
+{
+    "name": "mingle/cachehub",
+    "autoload": {
+        "psr-4": {
+            "Mingle\\CacheHub\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
